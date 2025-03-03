@@ -2,3 +2,4 @@ GItの勉強を始めます。
 基本的なコマンドを学びます。
 .git add
 .git commit
+.git status
